@@ -1,0 +1,10 @@
+.card{
+    width: 18rem
+}
+.card-img-top{
+    height: 250px;
+}
+
+.btn-comprar{
+    background-color: #f78d02;
+}

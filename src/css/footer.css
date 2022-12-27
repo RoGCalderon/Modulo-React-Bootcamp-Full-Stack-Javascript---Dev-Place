@@ -1,0 +1,11 @@
+/* .footer-c{
+    background-color: #f78d02;
+    font-weight: bold;
+} */
+
+footer,section,.copyright, .footer-section{
+    background-color: #f78d02;
+    font-weight: bold;
+    color: white;
+}
+

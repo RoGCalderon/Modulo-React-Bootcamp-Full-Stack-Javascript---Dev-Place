@@ -1,0 +1,12 @@
+.coffee-img{
+    max-width: 370px;
+}
+
+.text-login{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+}
+
+.col-coffee{
+    background-color: gray;
+}

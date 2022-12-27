@@ -1,0 +1,12 @@
+.div-cat{
+    background-color: #f78d02;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color:white
+}
+a:hover{
+    color:white;
+}

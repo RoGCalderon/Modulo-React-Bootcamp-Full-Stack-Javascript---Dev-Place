@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+
+.div-form{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url('background-form.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100% ;
+}
+
+h2{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+}
+form{
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    color: white;
+}
+
+.btn-send{
+    font-size: 25px;
+}

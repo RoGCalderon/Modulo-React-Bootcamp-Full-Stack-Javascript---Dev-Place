@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+
+.logo{
+    width:100px;
+    padding:5px;
+    margin-left: 5px;
+}
+.kaffee{
+    font-family: 'Dancing Script', cursive;
+    font-size: 53px;
+    padding-top: 5px;
+}
+
+.a-compras{
+    color: black;
+    margin-top: 30px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+
+}
+
+.btn-nav{
+    color:black;
+    font-family: 'Dancing Script', cursive;
+
+}
